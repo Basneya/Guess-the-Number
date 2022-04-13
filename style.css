@@ -1,0 +1,18 @@
+body {
+    background-color: darkviolet;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    margin-top: 200px;
+}
+
+#in,
+#btn {
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
